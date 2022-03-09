@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Tentingzzz2/1.0.0": {
+        "runtime": {
+          "Tentingzzz2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tentingzzz2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\cliente\Desktop\DANIEL TUDO\DS\3°Semestre\DS2\CodigosC#\Tentingzzz2\Tentingzzz2\bin\Debug\net5.0\Tentingzzz2.exe
+C:\Users\cliente\Desktop\DANIEL TUDO\DS\3°Semestre\DS2\CodigosC#\Tentingzzz2\Tentingzzz2\bin\Debug\net5.0\Tentingzzz2.deps.json
+C:\Users\cliente\Desktop\DANIEL TUDO\DS\3°Semestre\DS2\CodigosC#\Tentingzzz2\Tentingzzz2\bin\Debug\net5.0\Tentingzzz2.runtimeconfig.json
+C:\Users\cliente\Desktop\DANIEL TUDO\DS\3°Semestre\DS2\CodigosC#\Tentingzzz2\Tentingzzz2\bin\Debug\net5.0\Tentingzzz2.runtimeconfig.dev.json
+C:\Users\cliente\Desktop\DANIEL TUDO\DS\3°Semestre\DS2\CodigosC#\Tentingzzz2\Tentingzzz2\bin\Debug\net5.0\Tentingzzz2.dll
+C:\Users\cliente\Desktop\DANIEL TUDO\DS\3°Semestre\DS2\CodigosC#\Tentingzzz2\Tentingzzz2\bin\Debug\net5.0\ref\Tentingzzz2.dll
+C:\Users\cliente\Desktop\DANIEL TUDO\DS\3°Semestre\DS2\CodigosC#\Tentingzzz2\Tentingzzz2\bin\Debug\net5.0\Tentingzzz2.pdb
+C:\Users\cliente\Desktop\DANIEL TUDO\DS\3°Semestre\DS2\CodigosC#\Tentingzzz2\Tentingzzz2\obj\Debug\net5.0\Tentingzzz2.csproj.AssemblyReference.cache
+C:\Users\cliente\Desktop\DANIEL TUDO\DS\3°Semestre\DS2\CodigosC#\Tentingzzz2\Tentingzzz2\obj\Debug\net5.0\Tentingzzz2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cliente\Desktop\DANIEL TUDO\DS\3°Semestre\DS2\CodigosC#\Tentingzzz2\Tentingzzz2\obj\Debug\net5.0\Tentingzzz2.AssemblyInfoInputs.cache
+C:\Users\cliente\Desktop\DANIEL TUDO\DS\3°Semestre\DS2\CodigosC#\Tentingzzz2\Tentingzzz2\obj\Debug\net5.0\Tentingzzz2.AssemblyInfo.cs
+C:\Users\cliente\Desktop\DANIEL TUDO\DS\3°Semestre\DS2\CodigosC#\Tentingzzz2\Tentingzzz2\obj\Debug\net5.0\Tentingzzz2.csproj.CoreCompileInputs.cache
+C:\Users\cliente\Desktop\DANIEL TUDO\DS\3°Semestre\DS2\CodigosC#\Tentingzzz2\Tentingzzz2\obj\Debug\net5.0\Tentingzzz2.dll
+C:\Users\cliente\Desktop\DANIEL TUDO\DS\3°Semestre\DS2\CodigosC#\Tentingzzz2\Tentingzzz2\obj\Debug\net5.0\ref\Tentingzzz2.dll
+C:\Users\cliente\Desktop\DANIEL TUDO\DS\3°Semestre\DS2\CodigosC#\Tentingzzz2\Tentingzzz2\obj\Debug\net5.0\Tentingzzz2.pdb
+C:\Users\cliente\Desktop\DANIEL TUDO\DS\3°Semestre\DS2\CodigosC#\Tentingzzz2\Tentingzzz2\obj\Debug\net5.0\Tentingzzz2.genruntimeconfig.cache
